@@ -1,6 +1,6 @@
 <html>
 <head>"Website on What I've Learned"
-<title>about my learned</title>
+  <title> about my learned </title>
 </head><link rel="stylesheet" type="text/css" href="styles.css">
 <body>
 <h1>My Favourit Topics</h1>
@@ -12,5 +12,6 @@
 </body>
 </html> DECI_learnings.html
 
+body {
   background-color: lightblue;
-}ing styles (4).css…]()
+}
